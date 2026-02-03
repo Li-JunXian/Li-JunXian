@@ -8,4 +8,4 @@ Hi! Allow me to introduce myself, my name is **Li Jun Xian**, and
 - ⚡ I specialise in:
   - 📱 Advanced Electronics, and
   -  🚀 Space Technology
-- 🔍 With 💽 Embedded Computing as my concentration area for study.
+- 🔍 With 💽 System-On-A-Chip as my concentration area for study.
