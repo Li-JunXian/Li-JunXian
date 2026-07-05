@@ -6,6 +6,5 @@ Hi! Allow me to introduce myself, my name is **Li Jun Xian**, and
 
 - 🌱 I’m currently learning Computer Engineering as an undergraduate.
 - ⚡ I specialise in:
-  - 📱 Advanced Electronics, and
-  -  🚀 Space Technology
-- 🔍 With 💽 System-On-A-Chip as my concentration area for study.
+  - 🚀 Space Technology
+  - 📱 Advanced Electronics
