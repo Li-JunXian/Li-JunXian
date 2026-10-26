@@ -8,5 +8,5 @@ Hi! My name is **Li Jun Xian**, and
 - ⚡ I specialise in:
   - ⚛️ Quantum Computing
   - 💿 System-on-a-Chip (SoC) Design
-  - 🚀 Space Technology
   - 📱 Advanced Electronics
+  - 🚀 Space Technology
